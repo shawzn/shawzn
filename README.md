@@ -20,7 +20,7 @@
 ```yaml
 name      : Sean Antonio Tarigan
 alias     : shawzn  •  he/him
-education : Internet Engineering — PENS (Politeknik Elektronika Negeri Surabaya)
+education : Internet Engineering Technology — PENS (Politeknik Elektronika Negeri Surabaya)
 focus     : Network Engineering, Cloud Infrastructure
 email     : seannoname07@gmail.com
 web       : hxms.web.id
