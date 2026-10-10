@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Internet+Engineering+%40+PENS;BGP+%7C+MikroTik+%7C+FortiGate;Linux+%7C+AWS+%7C+Prometheus+%26+Grafana;Building+networks+across+the+galaxy+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Internet+Engineering+Technology+%40+PENS;BGP+%7C+MikroTik+%7C+FortiGate;Linux+%7C+AWS+%7C+Prometheus+%26+Grafana;Building+networks+across+the+galaxy+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
